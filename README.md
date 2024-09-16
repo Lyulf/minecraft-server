@@ -66,4 +66,5 @@ Mod loader: *Fabric* (loader version *0.16.5*)
 
 ### *Server side only*
 
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - [ServerSleep](https://www.curseforge.com/minecraft/mc-mods/serversleep) - serversleep-mod.jar

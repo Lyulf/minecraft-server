@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1 - Not released
+
+### Added
+
+#### MODS - *Server side only*
+
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+
 ## 1.0.0 - 2024/09/14
 
 Current minecraft version: *1.20.4*  
